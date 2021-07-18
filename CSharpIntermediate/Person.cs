@@ -5,6 +5,7 @@ namespace CSharpIntermediate
     public class Person
     {
         public string Name;
+        public DateTime BirthDate { get; set; }
 
         public void Introduce(string to)
         {

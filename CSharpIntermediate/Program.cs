@@ -1,20 +1,19 @@
 ﻿using System;
-using System.Linq;
 
 namespace CSharpIntermediate
 {
+    public class Pedreiro
+    {
+
+    }
     partial class Program
     {
         static void Main(string[] args)
         {
-            //var number = int.Parse("abc");
-
-            int number;
-            var result = int.TryParse("abc", out number);
-            if (result)
-                Console.WriteLine(number);
-            else
-                Console.WriteLine("Convertion Failed");
+            var customer = new Customer(1);
+            customer.Orders.Add(new Order());
+            customer.Orders.Add(new Order());
+            Console.WriteLine(customer.Orders.Count);
         }
 
         static void UsePoints()
@@ -38,6 +37,18 @@ namespace CSharpIntermediate
         {
             Console.WriteLine(Calculator.Add(1, 2));
             Console.WriteLine(Calculator.Add(1, 2, 3, 4));
+        }
+
+        static void UseOu()
+        {
+            //var number = int.Parse("abc");
+
+            int number;
+            var result = int.TryParse("abc", out number);
+            if (result)
+                Console.WriteLine(number);
+            else
+                Console.WriteLine("Convertion Failed");
         }
     }
 }
