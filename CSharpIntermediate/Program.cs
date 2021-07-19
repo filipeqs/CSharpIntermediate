@@ -2,18 +2,11 @@
 
 namespace CSharpIntermediate
 {
-    public class Pedreiro
-    {
-
-    }
     partial class Program
     {
         static void Main(string[] args)
         {
-            var customer = new Customer(1);
-            customer.Orders.Add(new Order());
-            customer.Orders.Add(new Order());
-            Console.WriteLine(customer.Orders.Count);
+            UseIndexers();
         }
 
         static void UsePoints()
@@ -49,6 +42,13 @@ namespace CSharpIntermediate
                 Console.WriteLine(number);
             else
                 Console.WriteLine("Convertion Failed");
+        }
+
+        static void UseIndexers()
+        {
+            var cookie = new HttpCookie();
+            cookie["name"] = "Filipe";
+            Console.WriteLine(cookie["name"]);
         }
     }
 }

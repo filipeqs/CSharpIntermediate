@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{33E79AC9-EB14-4765-BEA5-E4846F0654E5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpIntermediate/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpIntermediate/HttpCookie.cs">
     <Files>
-      <File FileName="CSharpIntermediate/Program.cs" Line="14" Column="24" />
-      <File FileName="CSharpIntermediate/Customer.cs" Line="8" Column="15" />
-      <File FileName="CSharpIntermediate/Person.cs" Line="10" Column="10" />
+      <File FileName="CSharpIntermediate/Program.cs" Line="9" Column="27" />
+      <File FileName="CSharpIntermediate/HttpCookie.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
             <Node name="CSharpIntermediate" expanded="True">
-              <Node name="Person.cs" selected="True" />
+              <Node name="HttpCookie.cs" selected="True" />
             </Node>
           </Node>
         </State>
