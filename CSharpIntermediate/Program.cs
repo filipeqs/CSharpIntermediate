@@ -6,7 +6,7 @@ namespace CSharpIntermediate
     {
         static void Main(string[] args)
         {
-            UseStopWatch();
+            UsePost();
         }
 
         static void UsePoints()
@@ -66,6 +66,14 @@ namespace CSharpIntermediate
             {
                 Console.WriteLine(ex);
             }
+        }
+
+        static void UsePost()
+        {
+            var post = new Post();
+            post.UpVote();
+            post.UpVote();
+            Console.WriteLine(post.Rating);
         }
     }
 }
