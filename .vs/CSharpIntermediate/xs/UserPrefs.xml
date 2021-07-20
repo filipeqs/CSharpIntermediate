@@ -1,18 +1,15 @@
-﻿<Properties StartupConfiguration="{33E79AC9-EB14-4765-BEA5-E4846F0654E5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpIntermediate/Post.cs">
+﻿<Properties StartupConfiguration="{7CA17C55-57D7-48A2-AA06-0D51CC881F3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Program.cs">
     <Files>
-      <File FileName="CSharpIntermediate/Program.cs" Line="9" Column="28" />
-      <File FileName="CSharpIntermediate/StopWatch.cs" Line="25" Column="78" />
-      <File FileName="CSharpIntermediate/Sounds.cs" Line="8" Column="1" />
-      <File FileName="CSharpIntermediate/HttpCookie.cs" Line="12" Column="10" />
-      <File FileName="CSharpIntermediate/Post.cs" Line="7" Column="6" />
+      <File FileName="Inheritance/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="CSharpIntermediate" expanded="True">
-              <Node name="Post.cs" selected="True" />
+            <Node name="CSharpIntermediate" expanded="True" />
+            <Node name="Inheritance" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,6 +19,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CSharpIntermediate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
