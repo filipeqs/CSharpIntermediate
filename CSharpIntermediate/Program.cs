@@ -6,7 +6,7 @@ namespace CSharpIntermediate
     {
         static void Main(string[] args)
         {
-            UseIndexers();
+            UseStopWatch();
         }
 
         static void UsePoints()
@@ -32,7 +32,7 @@ namespace CSharpIntermediate
             Console.WriteLine(Calculator.Add(1, 2, 3, 4));
         }
 
-        static void UseOu()
+        static void UseOut()
         {
             //var number = int.Parse("abc");
 
@@ -49,6 +49,23 @@ namespace CSharpIntermediate
             var cookie = new HttpCookie();
             cookie["name"] = "Filipe";
             Console.WriteLine(cookie["name"]);
+        }
+
+        static void UseStopWatch()
+        {
+            try
+            {
+                var stopWatch = new StopWatch();
+                stopWatch.Start();
+                stopWatch.Start();
+                stopWatch.Stop();
+
+                Console.WriteLine(stopWatch.Duration);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
         }
     }
 }
