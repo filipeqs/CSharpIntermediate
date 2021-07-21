@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.genruntimeconfig.cache

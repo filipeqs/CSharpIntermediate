@@ -1,15 +1,13 @@
-﻿<Properties StartupConfiguration="{7CA17C55-57D7-48A2-AA06-0D51CC881F3A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Installer.cs">
-    <Files>
-      <File FileName="Inheritance/Program.cs" Line="9" Column="30" />
-      <File FileName="Inheritance/Installer.cs" Line="16" Column="39" />
-    </Files>
+﻿<Properties StartupConfiguration="{8AB0A84C-6082-4A75-96E3-88AA2E34963D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Amazon FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="Inheritance" expanded="True">
-              <Node name="Installer.cs" selected="True" />
+            <Node name="AccessModifiers" expanded="True" />
+            <Node name="Amazon" expanded="True">
+              <Node name="GoldCustomer.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -24,4 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AccessModifiers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
