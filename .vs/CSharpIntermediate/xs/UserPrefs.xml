@@ -1,28 +1,31 @@
-﻿<Properties StartupConfiguration="{13B92FF9-3DED-4F3F-8D42-3D696E5A9386}|Default">
-  <MonoDevelop.Ide.ItemProperties.MethodOverriding FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{6C3A2108-2BB0-4D46-B2BE-7208C5EF67BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MethodOverriding PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Boxing FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverriding/Canvas.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseConnection/OracleConnection.cs">
     <Files>
-      <File FileName="MethodOverriding/Program.cs" Line="13" Column="1" />
-      <File FileName="MethodOverriding/Shape.cs" Line="9" Column="23" />
-      <File FileName="MethodOverriding/Canvas.cs" Line="11" Column="30" />
-      <File FileName="MethodOverriding/Rectangle.cs" Line="1" Column="1" />
-      <File FileName="MethodOverriding/Circle.cs" Line="1" Column="1" />
+      <File FileName="DatabaseConnection/Program.cs" Line="9" Column="10" />
+      <File FileName="DatabaseConnection/DbConnection.cs" Line="15" Column="10" />
+      <File FileName="DesignAStack/Stack.cs" Line="13" Column="52" />
+      <File FileName="DatabaseConnection/SqlConnection.cs" Line="18" Column="54" />
+      <File FileName="DatabaseConnection/OracleConnection.cs" Line="6" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="MethodOverriding" expanded="True">
-              <Node name="Canvas.cs" selected="True" />
+            <Node name="DatabaseConnection" expanded="True">
+              <Node name="OracleConnection.cs" selected="True" />
             </Node>
+            <Node name="DesignAStack" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractClasses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Casting PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DatabaseConnection FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CSharpIntermediate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DesignAStack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

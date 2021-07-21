@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.genruntimeconfig.cache
