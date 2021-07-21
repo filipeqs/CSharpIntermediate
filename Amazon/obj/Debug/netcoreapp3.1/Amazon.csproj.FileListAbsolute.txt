@@ -1,0 +1,9 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/bin/Debug/netcoreapp3.1/Amazon.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/bin/Debug/netcoreapp3.1/Amazon.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/bin/Debug/netcoreapp3.1/Amazon.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/obj/Debug/netcoreapp3.1/Amazon.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/obj/Debug/netcoreapp3.1/Amazon.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/obj/Debug/netcoreapp3.1/Amazon.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/obj/Debug/netcoreapp3.1/Amazon.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/obj/Debug/netcoreapp3.1/Amazon.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Amazon/obj/Debug/netcoreapp3.1/Amazon.pdb

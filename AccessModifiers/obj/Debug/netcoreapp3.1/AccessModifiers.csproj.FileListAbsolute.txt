@@ -10,3 +10,6 @@
 /Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.dll
 /Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.pdb
 /Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.genruntimeconfig.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/Amazon.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/bin/Debug/netcoreapp3.1/Amazon.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.csproj.CopyComplete

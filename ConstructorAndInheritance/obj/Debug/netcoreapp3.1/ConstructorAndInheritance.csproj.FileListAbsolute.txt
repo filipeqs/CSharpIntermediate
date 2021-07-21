@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/bin/Debug/netcoreapp3.1/ConstructorAndInheritance.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/bin/Debug/netcoreapp3.1/ConstructorAndInheritance.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/bin/Debug/netcoreapp3.1/ConstructorAndInheritance.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/bin/Debug/netcoreapp3.1/ConstructorAndInheritance.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/bin/Debug/netcoreapp3.1/ConstructorAndInheritance.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/ConstructorAndInheritance/obj/Debug/netcoreapp3.1/ConstructorAndInheritance.genruntimeconfig.cache

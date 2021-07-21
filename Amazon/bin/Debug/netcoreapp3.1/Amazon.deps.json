@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "AccessModifiers/1.0.0": {
-        "dependencies": {
-          "Amazon": "1.0.0"
-        },
-        "runtime": {
-          "AccessModifiers.dll": {}
-        }
-      },
       "Amazon/1.0.0": {
         "runtime": {
           "Amazon.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "AccessModifiers/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Amazon/1.0.0": {
       "type": "project",
       "serviceable": false,
