@@ -1,26 +1,26 @@
-﻿<Properties StartupConfiguration="{42221298-7D7C-4A6F-AAA3-EA6373057D97}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Casting/Program.cs">
+﻿<Properties StartupConfiguration="{D0E54183-4569-4EF8-A21A-FCE64FB64DA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Boxing FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignAStack/Stack.cs">
     <Files>
-      <File FileName="Casting/Program.cs" Line="5" Column="18" />
+      <File FileName="DesignAStack/Program.cs" Line="4" Column="2" />
+      <File FileName="DesignAStack/Stack.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="AccessModifiers" expanded="True" />
-            <Node name="Amazon" expanded="True" />
-            <Node name="Casting" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="DesignAStack" expanded="True">
+              <Node name="Stack.cs" selected="True" />
             </Node>
-            <Node name="ConstructorAndInheritance" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Casting FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Casting PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CSharpIntermediate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignAStack FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConstructorAndInheritance PreferredExecutionTarget="MonoDevelop.Default" />

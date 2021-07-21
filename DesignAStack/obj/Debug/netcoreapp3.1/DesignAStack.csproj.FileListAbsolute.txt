@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/bin/Debug/netcoreapp3.1/DesignAStack.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/bin/Debug/netcoreapp3.1/DesignAStack.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/bin/Debug/netcoreapp3.1/DesignAStack.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/bin/Debug/netcoreapp3.1/DesignAStack.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/bin/Debug/netcoreapp3.1/DesignAStack.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DesignAStack/obj/Debug/netcoreapp3.1/DesignAStack.genruntimeconfig.cache
