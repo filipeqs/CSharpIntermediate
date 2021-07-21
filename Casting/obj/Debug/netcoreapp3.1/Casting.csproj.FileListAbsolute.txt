@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/bin/Debug/netcoreapp3.1/Casting.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/bin/Debug/netcoreapp3.1/Casting.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/bin/Debug/netcoreapp3.1/Casting.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Casting/obj/Debug/netcoreapp3.1/Casting.genruntimeconfig.cache
