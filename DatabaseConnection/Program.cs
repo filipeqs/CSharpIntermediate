@@ -6,7 +6,13 @@ namespace DatabaseConnection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var sqlConnection = new SqlConnection("conection");
+            var dbCommandSql = new DbCommand(sqlConnection, "Add data to DB");
+            dbCommandSql.Execute();
+
+            var oracleConnection = new OracleConnection("connection");
+            var dbCommandOracle = new DbCommand(oracleConnection, "Remove data from DB");
+            dbCommandOracle.Execute();
         }
     }
 }

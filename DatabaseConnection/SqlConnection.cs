@@ -8,14 +8,14 @@ namespace DatabaseConnection
         {
         }
 
-        public override void CloseConnection()
-        {
-            Console.WriteLine("Closing SQL Connection");
-        }
-
         public override void OpenConnection()
         {
             Console.WriteLine("Opening SQL Connection");
+        }
+
+        public override void CloseConnection()
+        {
+            Console.WriteLine("Closing SQL Connection");
         }
     }
 }

@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{6C3A2108-2BB0-4D46-B2BE-7208C5EF67BC}|Default">
   <MonoDevelop.Ide.ItemProperties.MethodOverriding PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Boxing FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseConnection/OracleConnection.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseConnection/DbCommand.cs">
     <Files>
       <File FileName="DatabaseConnection/Program.cs" Line="9" Column="10" />
       <File FileName="DatabaseConnection/DbConnection.cs" Line="15" Column="10" />
       <File FileName="DesignAStack/Stack.cs" Line="13" Column="52" />
       <File FileName="DatabaseConnection/SqlConnection.cs" Line="18" Column="54" />
-      <File FileName="DatabaseConnection/OracleConnection.cs" Line="6" Column="13" />
+      <File FileName="DatabaseConnection/OracleConnection.cs" Line="18" Column="57" />
+      <File FileName="DatabaseConnection/DbCommand.cs" Line="6" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
             <Node name="DatabaseConnection" expanded="True">
-              <Node name="OracleConnection.cs" selected="True" />
+              <Node name="DbCommand.cs" selected="True" />
             </Node>
             <Node name="DesignAStack" expanded="True" />
           </Node>

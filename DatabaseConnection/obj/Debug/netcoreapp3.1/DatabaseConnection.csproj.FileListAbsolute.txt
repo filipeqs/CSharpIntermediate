@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/bin/Debug/netcoreapp3.1/DatabaseConnection.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/bin/Debug/netcoreapp3.1/DatabaseConnection.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/bin/Debug/netcoreapp3.1/DatabaseConnection.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/bin/Debug/netcoreapp3.1/DatabaseConnection.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/bin/Debug/netcoreapp3.1/DatabaseConnection.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/DatabaseConnection/obj/Debug/netcoreapp3.1/DatabaseConnection.genruntimeconfig.cache
