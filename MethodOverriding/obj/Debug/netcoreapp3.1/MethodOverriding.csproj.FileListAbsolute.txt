@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/bin/Debug/netcoreapp3.1/MethodOverriding.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/bin/Debug/netcoreapp3.1/MethodOverriding.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/bin/Debug/netcoreapp3.1/MethodOverriding.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/bin/Debug/netcoreapp3.1/MethodOverriding.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/bin/Debug/netcoreapp3.1/MethodOverriding.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/MethodOverriding/obj/Debug/netcoreapp3.1/MethodOverriding.genruntimeconfig.cache

@@ -1,16 +1,20 @@
-﻿<Properties StartupConfiguration="{D0E54183-4569-4EF8-A21A-FCE64FB64DA2}|Default">
+﻿<Properties StartupConfiguration="{13B92FF9-3DED-4F3F-8D42-3D696E5A9386}|Default">
+  <MonoDevelop.Ide.ItemProperties.MethodOverriding FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Boxing FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DesignAStack/Stack.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverriding/Canvas.cs">
     <Files>
-      <File FileName="DesignAStack/Program.cs" Line="4" Column="2" />
-      <File FileName="DesignAStack/Stack.cs" Line="1" Column="1" />
+      <File FileName="MethodOverriding/Program.cs" Line="13" Column="1" />
+      <File FileName="MethodOverriding/Shape.cs" Line="9" Column="23" />
+      <File FileName="MethodOverriding/Canvas.cs" Line="11" Column="30" />
+      <File FileName="MethodOverriding/Rectangle.cs" Line="1" Column="1" />
+      <File FileName="MethodOverriding/Circle.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="DesignAStack" expanded="True">
-              <Node name="Stack.cs" selected="True" />
+            <Node name="MethodOverriding" expanded="True">
+              <Node name="Canvas.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,7 +24,7 @@
   <MonoDevelop.Ide.ItemProperties.Casting PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CSharpIntermediate PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.DesignAStack FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignAStack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConstructorAndInheritance PreferredExecutionTarget="MonoDevelop.Default" />
