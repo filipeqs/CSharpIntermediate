@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.genruntimeconfig.cache
