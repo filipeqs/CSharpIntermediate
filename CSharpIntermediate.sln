@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensibility", "Extensibil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{9D1D0CFF-B34F-44B2-861A-29F572144D2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowEngine", "WorkflowEngine\WorkflowEngine.csproj", "{F75678B2-C93A-4E13-9501-B1F61A4759BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{9D1D0CFF-B34F-44B2-861A-29F572144D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D1D0CFF-B34F-44B2-861A-29F572144D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D1D0CFF-B34F-44B2-861A-29F572144D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75678B2-C93A-4E13-9501-B1F61A4759BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75678B2-C93A-4E13-9501-B1F61A4759BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75678B2-C93A-4E13-9501-B1F61A4759BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75678B2-C93A-4E13-9501-B1F61A4759BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

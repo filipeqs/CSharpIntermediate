@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/bin/Debug/netcoreapp3.1/WorkflowEngine.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/bin/Debug/netcoreapp3.1/WorkflowEngine.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/bin/Debug/netcoreapp3.1/WorkflowEngine.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/bin/Debug/netcoreapp3.1/WorkflowEngine.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/bin/Debug/netcoreapp3.1/WorkflowEngine.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/WorkflowEngine/obj/Debug/netcoreapp3.1/WorkflowEngine.genruntimeconfig.cache

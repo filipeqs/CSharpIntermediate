@@ -1,21 +1,16 @@
-﻿<Properties StartupConfiguration="{9D1D0CFF-B34F-44B2-861A-29F572144D2C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Polymorphism FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{F75678B2-C93A-4E13-9501-B1F61A4759BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polymorphism PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MethodOverriding PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Extensibility PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Testability PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WorkflowEngine PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Boxing FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Polymorphism/Program.cs">
-    <Files>
-      <File FileName="Polymorphism/Program.cs" Line="10" Column="49" />
-      <File FileName="Polymorphism/MailService.cs" Line="8" Column="41" />
-      <File FileName="Polymorphism/Mail.cs" Line="6" Column="6" />
-      <File FileName="Polymorphism/Video.cs" Line="6" Column="6" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="Polymorphism" expanded="True">
+            <Node name="WorkflowEngine" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
