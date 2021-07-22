@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/bin/Debug/netcoreapp3.1/Testability.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/bin/Debug/netcoreapp3.1/Testability.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/bin/Debug/netcoreapp3.1/Testability.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/bin/Debug/netcoreapp3.1/Testability.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/bin/Debug/netcoreapp3.1/Testability.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.dll
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpIntermediate/Testability/obj/Debug/netcoreapp3.1/Testability.genruntimeconfig.cache

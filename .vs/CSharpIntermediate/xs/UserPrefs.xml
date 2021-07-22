@@ -1,23 +1,24 @@
-﻿<Properties StartupConfiguration="{6C3A2108-2BB0-4D46-B2BE-7208C5EF67BC}|Default">
+﻿<Properties StartupConfiguration="{D2B6089A-9131-4331-9D22-C0E8A920D3AB}|Default">
   <MonoDevelop.Ide.ItemProperties.MethodOverriding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Testability PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Boxing FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseConnection/DbCommand.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testability/ShippingCalculator.cs">
     <Files>
-      <File FileName="DatabaseConnection/Program.cs" Line="9" Column="10" />
-      <File FileName="DatabaseConnection/DbConnection.cs" Line="15" Column="10" />
-      <File FileName="DesignAStack/Stack.cs" Line="13" Column="52" />
-      <File FileName="DatabaseConnection/SqlConnection.cs" Line="18" Column="54" />
-      <File FileName="DatabaseConnection/OracleConnection.cs" Line="18" Column="57" />
-      <File FileName="DatabaseConnection/DbCommand.cs" Line="6" Column="22" />
+      <File FileName="Testability/Program.cs" Line="10" Column="47" />
+      <File FileName="Testability/OrderProcessor.cs" Line="20" Column="29" />
+      <File FileName="Testability/ShippingCalculator.cs" Line="4" Column="41" />
+      <File FileName="Testability/Order.cs" Line="13" Column="1" />
+      <File FileName="Testability/Shipment.cs" Line="7" Column="37" />
+      <File FileName="Testability.Tests/UnitTest1.cs" Line="6" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpIntermediate" expanded="True">
-            <Node name="DatabaseConnection" expanded="True">
-              <Node name="DbCommand.cs" selected="True" />
+            <Node name="Testability" expanded="True">
+              <Node name="ShippingCalculator.cs" selected="True" />
             </Node>
-            <Node name="DesignAStack" expanded="True" />
+            <Node name="Testability.Tests" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,8 +26,13 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.AbstractClasses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Casting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Testability.Tests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DatabaseConnection FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DatabaseConnection PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>s/s.csproj</String>
+    <String>Testability.Tests/Testability.Tests.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.ItemProperties.CSharpIntermediate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DesignAStack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
